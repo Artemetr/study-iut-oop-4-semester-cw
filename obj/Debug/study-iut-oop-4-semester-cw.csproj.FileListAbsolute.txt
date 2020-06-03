@@ -1,0 +1,12 @@
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\bin\Debug\study-iut-oop-4-semester-cw.exe.config
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\bin\Debug\study-iut-oop-4-semester-cw.exe
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\bin\Debug\study-iut-oop-4-semester-cw.pdb
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study-iut-oop-4-semester-cw.csprojAssemblyReference.cache
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study_iut_oop_4_semester_cw.MainView.resources
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study_iut_oop_4_semester_cw.Properties.Resources.resources
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study-iut-oop-4-semester-cw.csproj.GenerateResource.cache
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study-iut-oop-4-semester-cw.csproj.CoreCompileInputs.cache
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study-iut-oop-4-semester-cw.exe
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study-iut-oop-4-semester-cw.pdb
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study_iut_oop_4_semester_cw.StateView.resources
+F:\Projects\study-iut-oop-4-semester-cw\study-iut-oop-4-semester-cw\obj\Debug\study_iut_oop_4_semester_cw.StateSelectView.resources
